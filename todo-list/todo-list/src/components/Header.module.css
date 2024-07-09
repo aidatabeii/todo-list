@@ -1,0 +1,9 @@
+.container{
+    margin: 50px 0;
+    text-align: center;
+}
+.container h1{
+    color: #506340;
+    margin-bottom: 20px;
+    font-size: 3rem;
+}

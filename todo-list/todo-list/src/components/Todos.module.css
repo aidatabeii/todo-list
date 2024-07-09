@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    margin-bottom: 100px;
+}
+.container h3 {
+    color:#506340 ;
+    font-size: 1.5rem;
+}
+.todo{
+    border: 2px solid #9bbe7e;
+    list-style: none;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 15px;
+
+}
+.message{
+    background-color:#cdd19f;
+    height: 100px;
+    line-height: 90px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: #0b2206;
+    font-size: 2rem;
+    font-weight: 500;
+}
